@@ -9,11 +9,12 @@
 <h3>(2). 用户端功能​</h3>
 账号登录/注册，微信快捷登录，个人收件地址管理（默认地址设置、多地址切换），个人领养订单查询（申请中、审核通过、审核不通过），宠物详情查询（含健康报告、领养要求），宠物收藏管理（添加 / 取消收藏、查看收藏列表），领养申请提交（上传个人资质材料），领养进度跟踪，分类及宠物浏览（按品类、年龄、领养难度筛选），意见反馈提交，宠物经验帖子浏览。
 <h2>技术选型</h2>
-本系统采用的开发语言是：
-● 前端：JavaScript 、 CSS 、HTML、Vue.js（2）
-● 后端：Java
-采用的开发框架 ：
-● 前端：Vue.js（2） + ElementUI（UI组件库）+ Axios （网络请求库）
-● 后端：SpringBoot + Mybatis + MybatisPlus + SpringMVC
-数据库：MySQL
-给个总结，前端基于Vue2+ElementUI搭建，后端基于SpringBoot框架搭建，数据库采用的是MySQL框架。
+本系统采用的开发语言是：</br>
+● 前端：JavaScript 、 CSS 、HTML、Vue.js（2）</br>
+● 后端：Java</br>
+采用的开发框架 ：</br>
+● 前端：Vue.js（2） + ElementUI（UI组件库）+ Axios （网络请求库）</br>
+● 后端：SpringBoot + Mybatis + MybatisPlus + SpringMVC</br>
+数据库：MySQL</br>
+给个总结，前端基于Vue2+ElementUI搭建，后端基于SpringBoot框架搭建，数据库采用的是MySQL框架。</br>
+
