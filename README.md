@@ -17,4 +17,24 @@
 ● 后端：SpringBoot + Mybatis + MybatisPlus + SpringMVC</br>
 数据库：MySQL</br>
 给个总结，前端基于Vue2+ElementUI搭建，后端基于SpringBoot框架搭建，数据库采用的是MySQL框架。</br>
+<h2>项目演示</h2>
+<h4>仪表盘</h4>
+<img src="file/guanli.png" alt="架构图" width="600" height="400">
+<h4>用户管理</h4>
+<img src="file/guanli.png" alt="架构图" width="600" height="400">
+<h4>宠物管理</h4>
+<img src="file/guanli.png" alt="架构图" width="600" height="400">
+<h4>宠物类别管理</h4>
+<img src="file/guanli.png" alt="架构图" width="600" height="400">
+<h4>宠物经验帖子管理</h4>
+<img src="file/guanli.png" alt="架构图" width="600" height="400">
+<h4>宠物领养订单管理</h4>
+<img src="file/guanli.png" alt="架构图" width="600" height="400">
+<h4>公告管理</h4>
+<img src="file/guanli.png" alt="架构图" width="600" height="400">
+<h4>评论管理</h4>
+<img src="file/guanli.png" alt="架构图" width="600" height="400">
+<h4>意见与反馈</h4>
+<img src="file/guanli.png" alt="架构图" width="600" height="400">
+
 
